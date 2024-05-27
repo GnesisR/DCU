@@ -1,9 +1,150 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T18:38:44.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.9" etag="ZGIza_WCtDfYhzTOuQd9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T19:15:58.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ONIoP4UQMG4j0t4cj436" version="24.4.9" type="github">
   <diagram name="Page-1" id="dAVAD1SCVKSxs7iiWb2M">
-    <mxGraphModel>
+    <mxGraphModel dx="1199" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-R8hwL97aKFuceaLnE-x-1" value="&lt;h1&gt;&lt;span style=&quot;color: rgb(55, 58, 60); font-weight: 400; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot; face=&quot;Times New Roman&quot;&gt;Publicar calificación&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="30" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-2" value="&lt;p style=&quot;font-size: 12px;&quot; class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Genesis Rodriguez 2023-0283&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="720" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-4" value="Flujo normal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="355" y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-5" value="Profesor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-R8hwL97aKFuceaLnE-x-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="280" as="sourcePoint" />
+            <mxPoint x="100" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-7" value="Ingresa a la plataforma" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-R8hwL97aKFuceaLnE-x-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="310" as="sourcePoint" />
+            <mxPoint x="120" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-9" value="Selecciona la asignatura y el grupo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-R8hwL97aKFuceaLnE-x-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="340" as="sourcePoint" />
+            <mxPoint x="140" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-11" value="Selecciona un estudiante" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="320" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-R8hwL97aKFuceaLnE-x-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="370" as="sourcePoint" />
+            <mxPoint x="160" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-13" value="Busca las calificaciones" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-R8hwL97aKFuceaLnE-x-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="400" as="sourcePoint" />
+            <mxPoint x="110" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-15" value="Califica" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-16" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="-R8hwL97aKFuceaLnE-x-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="280" as="sourcePoint" />
+            <mxPoint x="710" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-18" value="Verifica credenciales y las guarda" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-R8hwL97aKFuceaLnE-x-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="310" as="sourcePoint" />
+            <mxPoint x="710" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-20" value="Lista a los estudiantes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-R8hwL97aKFuceaLnE-x-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="350" as="sourcePoint" />
+            <mxPoint x="700" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-22" value="&lt;br&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Arial Unicode MS&amp;quot;;mso-ansi-language:ES-DO;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;Despliega una ventana con las casillas para colocar las calificaciones&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.945;entryY=0.217;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-R8hwL97aKFuceaLnE-x-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="380" as="sourcePoint" />
+            <mxPoint x="730" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-24" value="Guarda la calificación" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-R8hwL97aKFuceaLnE-x-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="400" as="sourcePoint" />
+            <mxPoint x="770" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-26" value="Publica la calificación" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-29" value="Flujo alterno" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="365" y="590" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-30" value="Profesor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="800" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-R8hwL97aKFuceaLnE-x-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="840" as="sourcePoint" />
+            <mxPoint x="150" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-36" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Se equivoca en el acumulado de calificación&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="790" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-41" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="800" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.985;entryY=0.679;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-R8hwL97aKFuceaLnE-x-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="800" as="sourcePoint" />
+            <mxPoint x="720" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-45" value="&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Arial Unicode MS&amp;quot;;mso-ansi-language:ES-DO;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;Encuentra un fallo en la confirmación y le avisa que ingrese correctamente&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="670" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.945;entryY=0.217;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-R8hwL97aKFuceaLnE-x-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="880" as="sourcePoint" />
+            <mxPoint x="740" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R8hwL97aKFuceaLnE-x-49" value="&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Arial Unicode MS&amp;quot;;mso-ansi-language:ES-DO;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;Publica la calificación, pero los estudiantes no pueden ver la calificación&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="900" width="260" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
