@@ -1,76 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T16:51:50.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hjPsaZKQVc86es5l1kGK" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T16:57:04.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Z4Yx2pOya-SCcQb17S4t" version="24.4.9" type="github">
   <diagram name="Page-1" id="yL4-EC0LzdlwihAr2VRG">
-    <mxGraphModel dx="1199" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object label="Estudiante" id="AORObKfU_eMm_ny0Qasz-1">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;gradientColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-            <mxGeometry x="30" y="260" width="30" height="60" as="geometry" />
+            <mxGeometry x="30" y="310" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="AORObKfU_eMm_ny0Qasz-2" value="Flujo normal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="320" width="190" height="30" as="geometry" />
+          <mxGeometry x="320" y="90" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AORObKfU_eMm_ny0Qasz-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AORObKfU_eMm_ny0Qasz-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="220" as="sourcePoint" />
-            <mxPoint x="160" y="190" as="targetPoint" />
+            <mxPoint x="70" y="270" as="sourcePoint" />
+            <mxPoint x="160" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AORObKfU_eMm_ny0Qasz-5" value="Ingresa sus credenciales" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="80" width="130" height="40" as="geometry" />
+          <mxGeometry x="150" y="130" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AORObKfU_eMm_ny0Qasz-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AORObKfU_eMm_ny0Qasz-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="250" as="sourcePoint" />
-            <mxPoint x="200" y="200" as="targetPoint" />
+            <mxPoint x="90" y="300" as="sourcePoint" />
+            <mxPoint x="200" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AORObKfU_eMm_ny0Qasz-7" value="Entra a la sección&lt;div&gt;&amp;nbsp;de la materia.&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="140" width="150" height="60" as="geometry" />
+          <mxGeometry x="200" y="190" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AORObKfU_eMm_ny0Qasz-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AORObKfU_eMm_ny0Qasz-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="280" as="sourcePoint" />
-            <mxPoint x="190" y="250" as="targetPoint" />
+            <mxPoint x="100" y="330" as="sourcePoint" />
+            <mxPoint x="190" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AORObKfU_eMm_ny0Qasz-9" value="Entra a la asignación de la materia." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="220" width="170" height="60" as="geometry" />
+          <mxGeometry x="200" y="270" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AORObKfU_eMm_ny0Qasz-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AORObKfU_eMm_ny0Qasz-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="310" as="sourcePoint" />
-            <mxPoint x="180" y="310" as="targetPoint" />
+            <mxPoint x="100" y="360" as="sourcePoint" />
+            <mxPoint x="180" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AORObKfU_eMm_ny0Qasz-11" value="Presiona el botón &quot;agregar entrega&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="290" width="165" height="70" as="geometry" />
+          <mxGeometry x="215" y="340" width="165" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AORObKfU_eMm_ny0Qasz-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.002;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AORObKfU_eMm_ny0Qasz-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="340" as="sourcePoint" />
-            <mxPoint x="140" y="360" as="targetPoint" />
+            <mxPoint x="90" y="390" as="sourcePoint" />
+            <mxPoint x="140" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AORObKfU_eMm_ny0Qasz-13" value="Selecciona el archivo de la tarea." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="370" width="170" height="70" as="geometry" />
+          <mxGeometry x="200" y="420" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AORObKfU_eMm_ny0Qasz-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.01;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AORObKfU_eMm_ny0Qasz-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="370" as="sourcePoint" />
-            <mxPoint x="130" y="430" as="targetPoint" />
+            <mxPoint x="70" y="420" as="sourcePoint" />
+            <mxPoint x="130" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AORObKfU_eMm_ny0Qasz-15" value="Guarda el documento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="450" width="160" height="60" as="geometry" />
+          <mxGeometry x="190" y="500" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AORObKfU_eMm_ny0Qasz-16" value="&lt;p style=&quot;font-size: 10px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Genesis Rodriguez 2023-0283&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="AORObKfU_eMm_ny0Qasz-16" value="&lt;p style=&quot;font-size: 11px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Genesis Rodriguez 2023-0283&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="730" y="20" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AORObKfU_eMm_ny0Qasz-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-60" width="60" height="30" as="geometry" />
+        <mxCell id="AORObKfU_eMm_ny0Qasz-18" value="&lt;h1 style=&quot;font-size: 38px;&quot;&gt;Subir tarea&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=38;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="295" y="35" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AORObKfU_eMm_ny0Qasz-19" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="310" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
