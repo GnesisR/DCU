@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T15:19:05.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="qHWABftOtOv_zSCL5Yae" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T16:09:33.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="jq15V2m_zldwCftEgywO" version="24.4.9" type="github">
   <diagram name="Page-1" id="xOd3cYooBrTCxfXfaoy3">
-    <mxGraphModel dx="2398" dy="1360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1411" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1001,6 +1001,126 @@
         </mxCell>
         <mxCell id="qs-GRtZ3yT4NtCFrbVrK-310" value="&lt;h1&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Comentarios&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1460" y="1795" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-311" value="&lt;h1&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;table style=&quot;margin-left:5.4pt;border-collapse:collapse;mso-table-layout-alt:fixed;&lt;br/&gt; border:none;mso-border-alt:solid #929292 .25pt;mso-yfti-tbllook:1184;&lt;br/&gt; mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:.75pt solid #929292;&lt;br/&gt; mso-border-insidev:.75pt solid #929292&quot; width=&quot;641&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; border=&quot;1&quot; class=&quot;MsoNormalTable&quot;&gt; &lt;tbody&gt;&lt;tr style=&quot;mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;&lt;br/&gt;  height:13.95pt&quot;&gt;  &lt;td style=&quot;width:240.55pt;border:solid black 1.0pt;&lt;br/&gt;  mso-border-top-alt:.75pt;mso-border-left-alt:.25pt;mso-border-bottom-alt:&lt;br/&gt;  .25pt;mso-border-right-alt:.75pt;mso-border-color-alt:black;mso-border-style-alt:&lt;br/&gt;  solid;padding:4.0pt 4.0pt 4.0pt 4.0pt;height:13.95pt&quot; valign=&quot;top&quot; width=&quot;321&quot;&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Revisar consultas realizadas a un paciente&lt;/font&gt;&lt;/p&gt;  &lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79.75" y="2290" width="690" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-312" value="Doctor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="2650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-313" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="769.75" y="2650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-314" value="Accede al sistema" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2540" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-315" value="Hace click en &quot;Consultas realizadas&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2610" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-316" value="Busca al paciente entre &quot;Citas&quot; o &quot;Turno&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2680" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-317" value="Hace click en &quot;Ver detalles&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="2760" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-318" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="qs-GRtZ3yT4NtCFrbVrK-314">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="2630" as="sourcePoint" />
+            <mxPoint x="100" y="2570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-319" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.003;entryY=0.376;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="qs-GRtZ3yT4NtCFrbVrK-315">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="2670" as="sourcePoint" />
+            <mxPoint x="140" y="2640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-320" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qs-GRtZ3yT4NtCFrbVrK-316">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="2690" as="sourcePoint" />
+            <mxPoint x="130" y="2660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-321" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qs-GRtZ3yT4NtCFrbVrK-317">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.75" y="2720" as="sourcePoint" />
+            <mxPoint x="129.75" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-322" value="Da acceso al doctor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2560" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-323" value="Muestra las consultas realizadas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2660" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-324" value="Muestra todos los detalles anotados" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="537.75" y="2750" width="187.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-325" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.928;entryY=0.866;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="qs-GRtZ3yT4NtCFrbVrK-322">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="749.75" y="2650" as="sourcePoint" />
+            <mxPoint x="799.75" y="2600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-326" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qs-GRtZ3yT4NtCFrbVrK-323">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="2690" as="sourcePoint" />
+            <mxPoint x="799.75" y="2650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-327" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="2740" as="sourcePoint" />
+            <mxPoint x="725" y="2770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-328" value="&lt;h1&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Flujo normal&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="2480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-329" value="Doctor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3070" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-330" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="757.25" y="3070" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-333" value="&lt;p class=&quot;TableStyle2&quot;&gt;No encuentra al paciente que busca porque olvido anotar la&lt;br/&gt;consulta.&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="3020" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-337" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qs-GRtZ3yT4NtCFrbVrK-333">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="67.5" y="3110" as="sourcePoint" />
+            <mxPoint x="117.5" y="3080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-339" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;Encuentra un fallo en las credenciales y le avisa al doctor para que las ingrese correctamente.&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2920" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-340" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;No muestra ninguna consulta porque el doctor no anoto las consultas&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="3050" width="247.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-341" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;No muestra detalles porque el doctor no anoto ninguno&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="3170" width="242.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-342" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.928;entryY=0.866;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="qs-GRtZ3yT4NtCFrbVrK-339">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="737.25" y="3070" as="sourcePoint" />
+            <mxPoint x="787.25" y="3020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-343" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qs-GRtZ3yT4NtCFrbVrK-340">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="737.5" y="3110" as="sourcePoint" />
+            <mxPoint x="787.25" y="3070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-344" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="737.5" y="3160" as="sourcePoint" />
+            <mxPoint x="712.5" y="3190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qs-GRtZ3yT4NtCFrbVrK-345" value="&lt;h1&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Flujo alterno&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="2850" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
